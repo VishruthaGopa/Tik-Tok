@@ -1,5 +1,4 @@
 // Glic-Glok
-//1. Vishrutha Gopa
 // This program creates and maintains both a dataFile which includes
 // the raw data inputted by a user, and a markdown file which outputs
 // this data neatly. The program has the capability to view, delete,
